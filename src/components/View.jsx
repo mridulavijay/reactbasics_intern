@@ -23,7 +23,7 @@ const View = () => {
           <TableRow>
             <TableCell>Name</TableCell>
             <TableCell align="right">Email</TableCell>
-            <TableCell align="right">Phone</TableCell>
+            <TableCell align="right">Phone Number</TableCell>
            
           </TableRow>
         </TableHead>
