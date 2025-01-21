@@ -16,7 +16,7 @@ function App() {
       <Routes>
         <Route path='/'element={<View/>}></Route>
         <Route path='/add' element={<Add person={{name:'Maya',
-    email:'my@gmail.com',
+    email:'mridula@gmail.com',
     password:'dgdgdg',
     address:'gdgudgdygdy'}}/>}></Route>
       </Routes>
