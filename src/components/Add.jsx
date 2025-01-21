@@ -67,7 +67,7 @@ const Add = ({person}) => {
       />
       </div>
       <div>
-        <Button variant='contained' onClick={valueAdd}>Register</Button>
+        <Button variant='contained' onClick={valueAdd}>Register Person</Button>
         <br></br>
       {/* <small>Button is clicked {count} times</small> */}
       </div>
